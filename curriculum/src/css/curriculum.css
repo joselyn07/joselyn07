@@ -5,7 +5,12 @@
 
 .inff {
     font-size: 15px;
-    font-family: "Times New Roman", Times, serif;
+    font-family: "Courier New", monospace;         
+}
+
+.margen{
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 .hoja {
@@ -27,7 +32,7 @@
 }
 
 #linea {
-    width: 105%;
+    width: 100%;
     height: 2px;
     background-color: #171718
     ;
@@ -39,6 +44,5 @@
 }
 
 .contenedorDerecha{
-    background-color: #93a47c
-    ;
+    background-color: #93a47c;
 }
